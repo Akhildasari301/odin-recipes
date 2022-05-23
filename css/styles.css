@@ -1,0 +1,26 @@
+
+h1 {
+    background-color: green;
+    color: white;
+    text-align: center
+}
+
+h2 {
+    color: red;
+    background-color: yellow;
+}
+
+li {
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav {
+    font-size: 20px;
+    text-decoration: none;
+    border: 3px solid black;
+    margin: 5px;
+    background-color: blue;
+    color: white
+    
+}
